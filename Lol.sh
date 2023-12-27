@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello Mohamed&Hamoud
+echo Hello MohamedHamoud
